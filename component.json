@@ -1,0 +1,84 @@
+{
+  "type": "component",
+  "name": "test",
+  "children": [
+    {
+      "name": "img",
+      "nodeName": "img",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "OyUaS7"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "source": {
+        "url": "assets/components/test/image8.webp",
+        "evaluate": false
+      }
+    },
+    {
+      "name": "qq",
+      "nodeName": "qq",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "Ix7UD4"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "custom-component",
+      "ownerId": "693f72cf2538361995f4c33b",
+      "ownerType": "component",
+      "expressions": []
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "directories": {
+    "assets": [
+      {
+        "id": "0B96vCb28HQJ8ZUcmDQ2r",
+        "name": "a"
+      }
+    ],
+    "components": [
+      {
+        "id": "vyXiHfa0aUSJgPAOI6Yxb",
+        "name": "w"
+      }
+    ],
+    "scripts": [],
+    "stylesheets": []
+  }
+}

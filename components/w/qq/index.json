@@ -1,0 +1,40 @@
+{
+  "type": "custom-component",
+  "name": "qq",
+  "children": [
+    {
+      "name": "img",
+      "nodeName": "img",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "zIWJs2"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "source": {
+        "url": "assets/components/test/components/qq/image2.jpg",
+        "evaluate": false
+      }
+    }
+  ],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "parentDirectoryId": "vyXiHfa0aUSJgPAOI6Yxb"
+}
